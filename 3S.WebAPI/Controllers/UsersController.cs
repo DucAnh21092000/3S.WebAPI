@@ -1,4 +1,4 @@
-﻿using _3S.WebAPI.Models;
+using _3S.WebAPI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,15 +8,17 @@ using System.Web.Http;
 
 namespace _3S.WebAPI.Controllers
 {
+    [RoutePrefix("api")]
+
     public class UsersController : ApiController
     {
         
         // GET api/users
-        [Route("api/users")]
+        [Route("users")]
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Users> Get()
         {
-            return new string[] { "value1", "value2" };
+            return Users.users;
         }
 
         // GET api/users/5
@@ -34,16 +36,15 @@ namespace _3S.WebAPI.Controllers
 
 
         // POST api/users
-        [Route("api/users/{user}")]
-
+        [Route("users/{value}")]
         [HttpPost]
-        public Users PostUser([FromBody] string value, Users user)
+        public Users PostUser([FromUri] string value , Users users)
         {
-            return user;
+            return users;
         }
 
             // PUT api/users/5
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromUri] string value)
         {
         }
 
