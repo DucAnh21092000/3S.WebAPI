@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -7,10 +7,11 @@ using System.Web.Http;
 
 namespace _3S.WebAPI.Controllers
 {
+    [RoutePrefix("api")]
     public class ValuesController : ApiController
     {
 
-        [Route("api/values")]
+        [Route("values")]
 
         // GET api/values
         
@@ -26,7 +27,9 @@ namespace _3S.WebAPI.Controllers
         }
 
         // POST api/values
-        public void Post([FromBody] string value)
+        [Route("values/{value}")]
+        [HttpPost]
+        public void PostValue([FromBody] string value)
         {
         }
 
