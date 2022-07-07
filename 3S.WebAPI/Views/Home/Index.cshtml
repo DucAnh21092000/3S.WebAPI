@@ -9,7 +9,7 @@
                         <div class="ant-form-item-control-input">
                             <div class="ant-form-item-control-input-content">
                                 <span class="ant-input-affix-wrapper">
-                                    <span class="ant-input-prefix">
+                                    <span class="ant-input-prefix icon__input">
                                         <span role="img" aria-label="mail"
                                               class="anticon anticon-mail site-form-item-icon">
                                             <svg viewBox="64 64 896 896" focusable="false" data-icon="mail" width="1em"
@@ -19,7 +19,7 @@
                                             </svg>
                                         </span>
                                     </span><input placeholder="E-mail" id="normal_login_email"
-                                                  class="ant-input" type="text" value="">
+                                                  class="ant-input input__text" type="text" value="">
                                 </span>
                             </div>
                         </div>
@@ -30,7 +30,7 @@
                         <div class="ant-form-item-control-input">
                             <div class="ant-form-item-control-input-content">
                                 <span class="ant-input-affix-wrapper">
-                                    <span class="ant-input-prefix">
+                                    <span class="ant-input-prefix icon__input">
                                         <span role="img" aria-label="lock"
                                               class="anticon anticon-lock site-form-item-icon">
                                             <svg viewBox="64 64 896 896" focusable="false" data-icon="lock" width="1em"
@@ -40,7 +40,7 @@
                                             </svg>
                                         </span>
                                     </span><input type="password" placeholder="Password"
-                                                  id="normal_login_password" class="ant-input">
+                                                  id="normal_login_password" class="ant-input input__text">
                                 </span>
                             </div>
                         </div>
@@ -60,25 +60,32 @@
                         </div>
                     </div>
                 </div>
-                <div class="ant-row ant-form-item" style="row-gap: 0px;">
+                <div class="mt-3 ant-row ant-form-item" style="row-gap: 0px;">
                     <div class="ant-col ant-form-item-control">
                         <div class="ant-form-item-control-input">
-                            <div class="ant-form-item-control-input-content">
-                                <button type="submit"
-                                        class="ant-btn ant-btn-primary login-form-button mb-3">
-                                    <span>
+                            <div class="ant-form-item-control-input-content ">
+                                <button type="button"
+                                        class="ant-btn btn-primary pt-1 pb-1 login-form-button mb-3">
+                                    <span class="text-white">
                                         Log in
                                     </span>
-                                </button>Or <a href="/create">register now!</a>
+                                </button>
+                                <div class="d-flex justify-content-center w-100">
+                                    <div>
+                                        Or <a href="/create">register now!</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </form>
         </div>
-        <div class="drawer"><button type="button" class="ant-btn ant-btn-primary"><span>Show Users</span></button></div>
-        <div class="footer text-white mt-2">
-            © 2022 Classy Login Form. All rights reserved | Design by <span class="text-primary">❥Đáɲɦ•ɱấʈ•ɛɱ </span>
+        <div class="drawer"><button type="button" class="ant-btn btn-primary ant-btn-primary"><span>Show Users</span></button></div>
+        <div class="footer text-white mt-2"> © 2022 Classy Login Form. All rights reserved | Design by 
+             <p class="text-primary">&nbsp; Đức Anh</p>
         </div>
     </div>
 </div>
+
+<script src="~/Asset/js/Login.js"  ></script>

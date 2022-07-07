@@ -1,0 +1,663 @@
+﻿++Solution '3S.webAPI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:3S.webAPI.sln
+++3S.WebAPI
+i:{00000000-0000-0000-0000-000000000000}:3S.WebAPI
+++Properties
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\properties\
+++References
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++App_Data
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_data\
+++App_Start
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_start\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\app_start\
+++BundleConfig.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\app_start\webapiconfig.cs
+++Areas
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\
+++HelpPage
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\
+++Controllers
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\controllers\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\controllers\
+++HelpController.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\controllers\helpcontroller.cs
+++ModelDescriptions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\
+++Models
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\models\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\models\
+++SampleGeneration
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\
+++Views
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\
+++ApiDescriptionExtensions.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\xmldocumentationprovider.cs
+++Asset
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\
+++css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\css\
+++image
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\image\
+++js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\js\
+++API
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\js\api\
+++Api.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\js\api\api.js
+++config.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\js\api\config.js
+++Login.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\js\login.js
+++Content
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\
+++bootstrap
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\
+++fonts
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\
+++bootstrap-grid.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap-utilities.rtl.min.css.map
+++bootstrap.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.css
+++bootstrap.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.css.map
+++bootstrap.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap.rtl.min.css.map
+++font-awesome.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\font-awesome.css
+++font-awesome.min.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\font-awesome.min.css
+++Site.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\site.css
+++DefaultController.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\controllers\defaultcontroller.cs
+++HomeController.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\controllers\homecontroller.cs
+++UsersController.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\controllers\userscontroller.cs
+++ValuesController.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\controllers\valuescontroller.cs
+++fontawesome-webfont.eot
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome-webfont.woff2
+++FontAwesome.otf
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\fonts\fontawesome.otf
+++Users.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\models\users.cs
+++Scripts
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\
+++axios.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\axios.js
+++axios.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\axios.min.js
+++bootstrap.bundle.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.js
+++bootstrap.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.js.map
+++bootstrap.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.min.js
+++bootstrap.min.js.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\bootstrap.min.js.map
+++jquery-3.6.0.intellisense.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.intellisense.js
+++jquery-3.6.0.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.js
+++jquery-3.6.0.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.min.js
+++jquery-3.6.0.min.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.min.map
+++jquery-3.6.0.slim.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.slim.js
+++jquery-3.6.0.slim.min.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.slim.min.js
+++jquery-3.6.0.slim.min.map
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\jquery-3.6.0.slim.min.map
+++modernizr-2.8.3.js
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\scripts\modernizr-2.8.3.js
+++Home
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\home\
+++Index.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\home\index.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\index.cshtml
+++Shared
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\shared\
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\shared\
+++_Layout.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\shared\_layout.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\_viewstart.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\_viewstart.cshtml
+++Web.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\views\web.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\web.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\web.config
+++favicon.ico
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\favicon.ico
+++Global.asax
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\global.asax
+++Global.asax.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\global.asax.cs
+++packages.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\packages.config
+++Web.Debug.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\web.debug.config
+++Web.Release.config
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\web.release.config
+++AssemblyInfo.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Azure.Core
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Azure.Identity
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Bcl.HashCode
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.CSharp
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Data.SqlClient
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.EntityFrameworkCore
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.EntityFrameworkCore.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.EntityFrameworkCore.Relational
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.EntityFrameworkCore.SqlServer
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Caching.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Caching.Memory
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Configuration
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Configuration.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Configuration.Binder
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.DependencyInjection
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Logging
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Options
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Extensions.Primitives
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Identity.Client
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Identity.Client.Extensions.Msal
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.IdentityModel.JsonWebTokens
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.IdentityModel.Logging
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.IdentityModel.Protocols
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.IdentityModel.Protocols.OpenIdConnect
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.IdentityModel.Tokens
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Microsoft.Web.Infrastructure
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++Newtonsoft.Json
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Buffers
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Collections.Immutable
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.ComponentModel.Annotations
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.ComponentModel.Composition
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.ComponentModel.DataAnnotations
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Configuration
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Configuration.ConfigurationManager
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Core
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Data
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Data.DataSetExtensions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Data.OracleClient
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Data.SqlClient
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Diagnostics.DiagnosticSource
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Drawing
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.IdentityModel
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.IdentityModel.Tokens.Jwt
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.IO
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Memory
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Net
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Net.Http
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Net.Http.Formatting
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Net.Http.WebRequest
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Numerics
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Numerics.Vectors
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Runtime
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Runtime.CompilerServices.Unsafe
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Runtime.Serialization
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.AccessControl
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Cryptography.Algorithms
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Cryptography.Encoding
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Cryptography.Primitives
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Cryptography.ProtectedData
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Permissions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Security.Principal.Windows
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.ServiceProcess
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Text.Encodings.Web
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Text.Json
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Threading.Tasks.Extensions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Transactions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.ValueTuple
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Abstractions
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.ApplicationServices
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Entity
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Helpers
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Http
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Http.WebHost
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Mvc
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Optimization
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Razor
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.Routing
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.WebPages
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.WebPages.Deployment
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Web.WebPages.Razor
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Windows.Forms
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Xml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++System.Xml.Linq
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++WebGrease
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++WindowsBase
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:
+++HelpPageConfig.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\app_start\helppageconfig.cs
+++CollectionModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\
+++App.css
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\asset\css\app.css
+++mixins
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\
+++alerts.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\alerts.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\alerts.less
+++badges.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\badges.less
+++bootstrap.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\bootstrap.less
+++breadcrumbs.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\breadcrumbs.less
+++button-groups.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\button-groups.less
+++buttons.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\buttons.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\buttons.less
+++carousel.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\carousel.less
+++close.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\close.less
+++code.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\code.less
+++component-animations.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\component-animations.less
+++dropdowns.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\dropdowns.less
+++forms.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\forms.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\forms.less
+++glyphicons.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\glyphicons.less
+++grid.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\grid.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\grid.less
+++input-groups.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\input-groups.less
+++jumbotron.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\jumbotron.less
+++labels.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\labels.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\labels.less
+++list-group.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\list-group.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\list-group.less
+++media.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\media.less
+++mixins.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins.less
+++modals.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\modals.less
+++navbar.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\navbar.less
+++navs.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\navs.less
+++normalize.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\normalize.less
+++pager.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\pager.less
+++pagination.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\pagination.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\pagination.less
+++panels.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\panels.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\panels.less
+++popovers.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\popovers.less
+++print.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\print.less
+++progress-bars.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\progress-bars.less
+++responsive-embed.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\responsive-embed.less
+++responsive-utilities.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\responsive-utilities.less
+++scaffolding.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\scaffolding.less
+++tables.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\tables.less
+++tooltip.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\tooltip.less
+++type.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\type.less
+++theme.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\theme.less
+++thumbnails.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\thumbnails.less
+++utilities.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\utilities.less
+++variables.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\variables.less
+++wells.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\wells.less
+++glyphicons-halflings-regular.eot
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\fonts\glyphicons-halflings-regular.woff2
+++DisplayTemplates
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\resourcemodel.cshtml
+++background-variant.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\background-variant.less
+++border-radius.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\border-radius.less
+++center-block.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\center-block.less
+++clearfix.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\clearfix.less
+++gradients.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\gradients.less
+++grid-framework.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\grid-framework.less
+++hide-text.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\hide-text.less
+++image.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\image.less
+++nav-divider.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\nav-divider.less
+++nav-vertical-align.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\nav-vertical-align.less
+++opacity.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\opacity.less
+++progress-bar.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\progress-bar.less
+++reset-filter.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\reset-filter.less
+++reset-text.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\reset-text.less
+++resize.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\resize.less
+++responsive-visibility.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\responsive-visibility.less
+++size.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\size.less
+++tab-focus.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\tab-focus.less
+++table-row.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\table-row.less
+++text-emphasis.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\text-emphasis.less
+++text-overflow.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\text-overflow.less
+++vendor-prefixes.less
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\content\bootstrap\mixins\vendor-prefixes.less
+++ApiGroup.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{37528e8d-e29e-4695-b08e-d532665844d1}:d:\workspace\back-end\c#\học c#\3s.webapi\3s.webapi\areas\helppage\views\help\displaytemplates\textsample.cshtml

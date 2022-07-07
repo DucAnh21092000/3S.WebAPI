@@ -14,7 +14,7 @@ namespace _3S.WebAPI.Controllers
     {
         
         // GET api/users
-        [Route("users")]
+        [Route("users")]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
         [HttpGet]
         public IEnumerable<Users> Get()
         {
@@ -22,12 +22,22 @@ namespace _3S.WebAPI.Controllers
         }
 
         // GET api/users/5
-
-        public string Get(int id)
+        [Route("users/{id}")]
+        public IHttpActionResult GetUserById(int id)
         {
-            return "value";
+            var data = Users.users.Where(x => x.Id == id);
+            if (data.Count() !=0)
+            {
+                return Ok(data);
+            }
+            else
+            {
+                return BadRequest();
+            }
+
         }
         
+        [Route("users/age={age}")]
         public string Get(int age, string name)
         {
             return name;
@@ -43,12 +53,16 @@ namespace _3S.WebAPI.Controllers
             return users;
         }
 
-            // PUT api/users/5
+        // PUT api/users/5
+        [Route("users/{value}")]
+        [HttpPut]
         public void Put(int id, [FromUri] string value)
         {
         }
 
         // DELETE api/users/5
+        [Route("users/{id}")]
+        [HttpDelete]
         public void Delete(int id)
         {
         }
