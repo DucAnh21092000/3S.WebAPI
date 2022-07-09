@@ -1,9 +1,9 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace _3S.WebAPI.Models
+namespace _3S.Model
 {
     public class Users
     {
@@ -14,7 +14,7 @@ namespace _3S.WebAPI.Models
         {
              new Users(){
                  Id = 1,
-                 UserCode= "abcd123", 
+                 UserCode= "abcd123",
                  FullName= "Đinh Đức Anh",
                  UserName= "girl9xbietkhoc",
                  Password= "1234as",
@@ -27,7 +27,7 @@ namespace _3S.WebAPI.Models
                  UserName = "Đánh mất em",
                  Password = "1234asáds",
                  IsAdmin =  "no"
-             }    
+             }
         };
 
         /// <sumary>

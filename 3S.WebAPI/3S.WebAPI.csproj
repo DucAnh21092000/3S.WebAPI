@@ -566,6 +566,19 @@
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\3S.BL\3S.BL.csproj">
+      <Project>{c7dbb990-522b-42b2-9770-24a9833ba9a7}</Project>
+      <Name>3S.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\3S.Model\3S.Model.csproj">
+      <Project>{9F74337F-FFDD-4364-A636-6F5096B9FC8F}</Project>
+      <Name>3S.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

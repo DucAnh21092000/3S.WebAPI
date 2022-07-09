@@ -27,7 +27,7 @@ namespace _3S.WebAPI.Areas.HelpPage
     {
         [SuppressMessage("Microsoft.Globalization", "CA1303:Do not pass literals as localized parameters",
             MessageId = "_3S.WebAPI.Areas.HelpPage.TextSample.#ctor(System.String)",
-            Justification = "End users may choose to merge this string with existing localized resources.")]
+            Justification = "End listUsers may choose to merge this string with existing localized resources.")]
         [SuppressMessage("Microsoft.Naming", "CA2204:Literals should be spelled correctly",
             MessageId = "bsonspec",
             Justification = "Part of a URI.")]

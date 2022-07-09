@@ -1,0 +1,6 @@
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\bin\Debug\3S.Model.dll
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\bin\Debug\3S.Model.pdb
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\obj\Debug\3S.Model.csproj.AssemblyReference.cache
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\obj\Debug\3S.Model.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\obj\Debug\3S.Model.dll
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.Model\obj\Debug\3S.Model.pdb

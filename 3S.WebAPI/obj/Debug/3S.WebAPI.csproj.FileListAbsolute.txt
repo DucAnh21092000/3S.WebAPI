@@ -210,3 +210,7 @@ D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\ru\Microsoft.Data.SqlC
 D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\obj\Debug\3S.WebAPI.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\3S.BL.dll
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\3S.Model.dll
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\3S.BL.pdb
+D:\WorkSpace\Back-end\C#\Học C#\3S.webAPI\3S.WebAPI\bin\3S.Model.pdb
